@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUHfmIr38a5Idt/a1rVwvNzCWdzjuiM6CpCp/7zsjZZuncAOzZCcQbkgrYODfTFvpKooTc01VC+y5sXnkRtstQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Imágenes\\Warehouse.Client\\Warehouse.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\google.protobuf\\3.25.0\\google.protobuf.3.25.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\grpc.aspnetcore\\2.59.0\\grpc.aspnetcore.2.59.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\grpc.aspnetcore.server\\2.59.0\\grpc.aspnetcore.server.2.59.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.59.0\\grpc.aspnetcore.server.clientfactory.2.59.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\grpc.core.api\\2.59.0\\grpc.core.api.2.59.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\grpc.net.client\\2.59.0\\grpc.net.client.2.59.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\grpc.net.clientfactory\\2.59.0\\grpc.net.clientfactory.2.59.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\grpc.net.common\\2.59.0\\grpc.net.common.2.59.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\grpc.tools\\2.59.0\\grpc.tools.2.59.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

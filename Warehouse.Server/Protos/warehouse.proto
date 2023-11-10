@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option csharp_namespace = "Warehouse.Server";
+
+package warehouse;
+
+message Product {
+	string id=1;
+	string name=2;
+	string quantity= 3;
+}
+
+service Warehouse{
+	rpc GetProductById(ProductID) returns (Product){}
+	rpc GetProductByName(ProductName) returns (Product){}
+	rpc AddProduct(Product) returns (ProductID){}
+	rpc UpdateProduct(Product) returns (Product){}
+}
+
+message ProductID {
+	string id =1;
+}
+
+message ProductName {
+	string name =1;
+}
+
+message ErrorResponse{
+	string reason=1;
+	repeated string details=2;
+}
